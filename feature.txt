@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý lịch học cá nhân
+- Cho phép người dùng thêm lịch học.
+- Cho phép chỉnh sửa và xóa lịch học.
+- Tự động nhắc nhở học viên khi đến giờ học.
+- Hiển thị thống kê tiến độ học.
+- Giao diện thân thiện, dễ sử dụng.
