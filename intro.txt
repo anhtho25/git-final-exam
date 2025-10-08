@@ -1,5 +1,7 @@
 Giới thiệu cá nhân:
 Hello this is Nguyễn Trần Anh Thơ, sinh viên ngành Công nghệ Thông tin.
+Xin chào, tôi là NGUYỄN TRẦN ANH THƠ
+Conflict resolved on 08/10/2025
 Tôi yêu thích lập trình và thích tìm hiểu công nghệ mới.
 Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
 Tôi luôn cố gắng học hỏi mỗi ngày để hoàn thiện bản thân.
