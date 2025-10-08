@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình C#
 - Thiết kế giao diện người dùng
 - Làm việc nhóm hiệu quả
+
+Kế hoạch học tập:
+- Ôn tập lại toàn bộ các lệnh Git.
+- Học branch, merge và xử lý conflict.
+- Làm bài tập thực hành mỗi tuần.
+- Thực hành tạo PR và review.
+- Chia sẻ kiến thức với nhóm.
