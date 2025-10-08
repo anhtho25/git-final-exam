@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý tiến độ học tập
+- Theo dõi số giờ học mỗi ngày
+- Ghi chú nội dung đã học
+- Tính tổng thời gian học trong tuần
+- Cảnh báo khi chưa hoàn thành mục tiêu
+- Xuất báo cáo học tập sang file PDF
