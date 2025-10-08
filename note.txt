@@ -1,0 +1,3 @@
+- Git giúp tôi quản lý mã nguồn dễ dàng hơn.
+- Tôi hiểu rõ hơn về commit và branch.
+- Sử dụng Git giúp làm việc nhóm hiệu quả hơn.
